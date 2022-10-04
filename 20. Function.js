@@ -1,0 +1,1 @@
+const cities = ["Sialkot", "Lahore", "Karachi"];
